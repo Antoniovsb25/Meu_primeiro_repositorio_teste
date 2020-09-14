@@ -4,3 +4,5 @@ Fazendo a segunda alteração pra jogar no commit
 Escrever mais um pouco pra segunda alteração
 
 Fazendo a terceira modificação e dando espaço entre cada modificação
+
+SERÁ QUE EU CONSIGO TRABALHAR COM OS BRANCHS E FAZER A EXCLUSÃO DELES?
